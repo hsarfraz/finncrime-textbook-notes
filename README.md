@@ -4,7 +4,7 @@
 * How money is distributed
 * How does the money laundering process work (case studies)
 
-<ins> Checklist to use when investigating any financial crime case <\ins>
+<ins> Checklist to use when investigating any financial crime case </ins>
 
 1. Look at the rules that exist to detect financial crime. Check those rules, because those rules are hard-coded rules, like the CTR threshold ($10,000, BSA requirement).
 2. What are the records that exist in the situation? This could be bank statements, SWIFT/wire transfer logs, Balance sheets & invoices, and SARs or previous compliance reports.
