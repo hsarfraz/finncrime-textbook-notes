@@ -1,6 +1,7 @@
 # finncrime-textbook-notes
 
-* The definition of money
+* The definition of money (ch 1)
+* stages of money laundering (pg 5)
 * How money is distributed
 * How does the money laundering process work (case studies)
 
