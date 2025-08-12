@@ -10,3 +10,7 @@
 2. What are the records that exist in the situation? This could be bank statements, SWIFT/wire transfer logs, Balance sheets & invoices, and SARs or previous compliance reports.
 3. Look at the business model and identify areas where money was moving, because then those are the areas that need to be investigated to identify if money laundering is occurring.
 4. Have you compared the patterns and behaviors in your current investigation to established money laundering typologies (smurfing, trade-based laundering, mirror trades), and note where they match or differ?
+
+<ins> Abbreviations </ins> 
+* Currency Transaction Report (CTR)
+* Bank Secrecy Act (BSA)
