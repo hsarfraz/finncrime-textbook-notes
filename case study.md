@@ -65,6 +65,15 @@ note: Diversionary tactics are tricks criminals use to confuse or avoid detectio
 5. **Nominees to cloud ownership** - A Nominee is a person who is placed as a company owner, but isn't the actual owner of that company.
 6. **Pyramiding of corporations** - A chain of companies that are owned by one another which makes it hard to trace the source of the financial crime.
 
+<ins> Sources of Information </ins>
+
+1. Business Records
+2. Records of vendors, suppliers, customers, and others doing business with the subject organisation
+3. Government Records (corporate filings, business license, registeration files, and tax records)
+4. Bank records
+5. Other businesses in the industry
+
+<ins> CTR vs 8300 Form </ins>
 
 ---
 
