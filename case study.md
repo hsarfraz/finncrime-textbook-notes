@@ -54,7 +54,7 @@ Analysis of DK Imports Ltd’s recent transactions revealed multiple red flags, 
 - **Placement Stage** – Introduction of illicit funds into the financial system.
 - **Currency Transaction Report (CTR)**: A report that banks must file for any transaction that is over $10,000 for a single customer
 
-<ins> Diversionary tactics of criminals <\ins>
+<ins> Diversionary tactics of criminals </ins>
 
 note: Diversionary tactics are tricks criminals use to confuse or avoid detection
 
