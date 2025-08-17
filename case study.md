@@ -47,12 +47,24 @@ Analysis of DK Imports Ltd’s recent transactions revealed multiple red flags, 
 
 ---
 
-## Key Vocabulary
-- **Structuring (Smurfing)** – Breaking down transactions to avoid reporting thresholds.  
+## Key Vocabulary 
 - **Trade-Based Money Laundering (TBML)** – Misrepresentation of price/quantity/quality of goods.  
 - **High-Risk Jurisdiction** – Countries with weak AML controls.  
 - **Layering** – Moving funds through multiple transactions to obscure origin.  
-- **Placement Stage** – Introduction of illicit funds into the financial system.  
+- **Placement Stage** – Introduction of illicit funds into the financial system.
+- **Currency Transaction Report (CTR)**: A report that banks must file for any transaction that is over $10,000 for a single customer
+
+<ins> Diversionary tactics of criminals <\ins>
+
+note: Diversionary tactics are tricks criminals use to confuse or avoid detection
+
+1. **Structuring (Smurfing)** – Breaking down transactions to avoid reporting thresholds.
+2. **Shell Company** - A company that just exists but does not have any employees or isn't operating. It is used to transfer money and usually these transactions fall under the guide of "consulting fees"
+3. **Front Company** - A company that does operate and mixes their daily sales with illegal money
+4. **Loanbacks** - The process where criminals lend their illegal money to themselves. The criminal would create a offshore account (such as a shell company) and that company would lend the money to the criminals business in their home country.
+5. **Nominees to cloud ownership** - A Nominee is a person who is placed as a company owner, but isn't the actual owner of that company.
+6. **Pyramiding of corporations** - A chain of companies that are owned by one another which makes it hard to trace the source of the financial crime.
+
 
 ---
 
