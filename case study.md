@@ -77,6 +77,20 @@ note: Diversionary tactics are tricks criminals use to confuse or avoid detectio
 
 The CTR form is used by banks for reporting any cash withdrawls or deposits over $10,000 in their system. A 8300 form is used by businesses to report any cash payments they receive which are over $10,000. 
 
+<ins> List of criterias used to determine whether transactions are related to terrorist activites </ins>
+
+* Every dollar deposits followed by like-amount wire transfers
+* Frequent domestic and international ATM activity
+* No known source of income
+* Use of wire transfers and the internet to move funds to and from high risk countries and geographic locations
+* Frequent address changes
+* Occupation "student" - primarily flight schools
+* Purchases of military items or technology
+* Media reports on suspected/arrested terrorists or groups
+
+<ins> 3 stages of the money laundering process </ins>
+
+
 ---
 
 ## Next Steps
