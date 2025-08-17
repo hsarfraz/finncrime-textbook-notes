@@ -75,7 +75,7 @@ note: Diversionary tactics are tricks criminals use to confuse or avoid detectio
 
 <ins> CTR vs 8300 Form </ins>
 
-The CTR form is used by banks for reporting any cash withdrawls or deposits over $10,000 in their system. A 8300 form is used by businesses to report any payments they receive which are over $10,000. 
+The CTR form is used by banks for reporting any cash withdrawls or deposits over $10,000 in their system. A 8300 form is used by businesses to report any cash payments they receive which are over $10,000. 
 
 ---
 
