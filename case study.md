@@ -90,6 +90,9 @@ The CTR form is used by banks for reporting any cash withdrawls or deposits over
 
 <ins> 3 stages of the money laundering process </ins>
 
+1. Placement: First entry of dirty money into the financial system (e.g., depositing cash in a bank, buying casino chips, hiding it in a shell company).
+2. Layering: Moving money around to confuse investigators (transfers, loans, multiple shells, pyramiding).
+3. Integration: Bringing it back as “clean” money (e.g., as loan repayments, business profits, investment returns).
 
 ---
 
