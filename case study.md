@@ -94,6 +94,11 @@ The CTR form is used by banks for reporting any cash withdrawls or deposits over
 2. Layering: Moving money around to confuse investigators (transfers, loans, multiple shells, pyramiding).
 3. Integration: Bringing it back as “clean” money (e.g., as loan repayments, business profits, investment returns).
 
+<ins> Money Mule vs. Smurf </ins>
+
+* A money mule is someone who wittingly or un-wittingly transfers illegal cash to another account. An example is if a student is told that they can do a job where they can earn money by transporting cash
+* A smurf is a paid agent in the criminal operation and they are tasked with transporting the money into multiple bank accounts while being under the CTR threshold
+
 ---
 
 ## Next Steps
