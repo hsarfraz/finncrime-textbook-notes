@@ -97,7 +97,7 @@ The CTR form is used by banks for reporting any cash withdrawls or deposits over
 <ins> Money Mule vs. Smurf </ins>
 
 * A money mule is someone who wittingly or un-wittingly transfers illegal cash to another account. An example is if a student is told that they can do a job where they can earn money by transporting cash
-* A smurf is a paid agent in the criminal operation and they are tasked with transporting the money into multiple bank accounts while being under the CTR threshold
+   * A smurf is a type of money mule who is a paid agent in the criminal operation and they are tasked with transporting the money into multiple bank accounts while being under the CTR threshold
 
 ---
 
