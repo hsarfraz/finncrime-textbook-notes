@@ -1,3 +1,5 @@
+Money Laundering: A Guide for Criminal Investigators, Third Edition by John Madinger
+
 # finncrime-textbook-notes
 
 * The definition of money (ch 1)
