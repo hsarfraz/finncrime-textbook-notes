@@ -36,10 +36,10 @@ You are a compliance analyst tasked with reviewing transactions linked to **Mr. 
 
 ---
 
-## Hints
-- CTR = Bank must file if **cash deposit/withdrawal ≥ $10,000** in a single business day.  
-- Form 8300 = **Any trade/business (non-bank)** must file if they receive **> $10,000 in cash** in a single (or related) transaction.  
-- SAR = Filed when **activity looks suspicious**, even if thresholds aren’t crossed (structuring, unusual behavior, rapid cash use).  
+## Terms
+- CTR = used by banks for reporting any cash withdrawls or deposits over $10,000 in a single day (this can be based on the total amount of withdrawls/deposits in a day or single transactions)
+- Form 8300 = used by businesses to report any cash payments they receive which are over $10,000
+- SAR =  
 
 ---
 
