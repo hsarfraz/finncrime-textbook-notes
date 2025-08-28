@@ -38,7 +38,7 @@ You are a compliance analyst tasked with reviewing transactions linked to **Mr. 
 
 ## Terms
 - CTR = used by banks for reporting any cash withdrawls or deposits over $10,000 in a single day (this can be based on the total amount of withdrawls/deposits in a day or single transactions)
-- Form 8300 = used by businesses to report any cash payments they receive which are over $10,000
+- Form 8300 = used by businesses to report any cash payments they receive which are over $10,000 (this can be based on the total amount of 2 or more related transactions or single transactions. There is no specific time period of when the related transactions need to be marked, unline the CTR)
 - SAR =  
 
 ---
