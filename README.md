@@ -1,5 +1,31 @@
 Money Laundering: A Guide for Criminal Investigators, Third Edition by John Madinger
 
+financial-crime-case-notes/
+│
+├── README.md                # Overview of project & purpose
+├── case_summaries/          # Written case analyses
+│   ├── hsbc_mexico.md
+│   ├── danske_bank_estonia.md
+│   ├── 1mdb_scandal.md
+│   └── [other cases].md
+│
+├── red_flags/               # Lists of suspicious indicators per industry
+│   ├── art_market.md
+│   ├── cafes_restaurants.md
+│   ├── crypto_exchanges.md
+│   └── real_estate.md
+│
+├── frameworks/              # High-level notes
+│   ├── FATF_40_recommendations.md
+│   ├── EU_AML_directives.md
+│   └── risk_assessment_process.md
+│
+└── reflections/             # Your own thoughts
+    ├── what_i_learned_aug2025.md
+    ├── recurring_patterns.md
+    └── skills_to_develop.md
+
+
 # finncrime-textbook-notes
 
 * The definition of money (ch 1)
