@@ -13,3 +13,21 @@ What is the purpose of a sequential serical number in a bank note?
 
 Is the situation of the robbers having money an example of placement?
 * No, the “placement” occurred earlier, when the illegal campaign money (e.g., donations or slush funds) was first moved into legitimate bank accounts which allowed the robbers to withdraw the money. The robbers were going to make the money "clean" again by spending it which makes it closer to integration, not layering, because the money was already laundered and was now being applied in the real world.
+
+> Investigators immediately began trying to trace these funds needed by the fact that, in 1972, all American banks were recording the serial numbers of $100 bills given out to customers. They followed the money trail to the Federal Reserve Bank of Atlanta, to its Miami, Florida branch. And from there to the Republic National Bank, Miami, which coincidentally was the hometown of four of the five burglars.
+>
+> In Miami, investigators learned that the bills had been given to Bernard Barker, one of the men they arrested. Barker had taken this money in a series of cash withdrawals from the trust account of his company, Barker & Associates, Inc., a real estate firm. Barker had made three cash withdrawals totaling $114,000 from this account, $25,000 on April 24, $33,000 on May 2, and $56,000 on May 8, 1972.
+
+To clarify, what investors did here was **currency tracing** or **serial number tracing**. In AML lingo, it would fall under following the money trail (a forensic accounting technique), not a laundering tactic.
+
+Barker & Associates looked like a real estate firm but functioned as a **front company** (slightly different from a pure “shell” — a shell has no real operations, a front has some but is used to launder money). In this case, it was used to receive illegal campaign funds → this is the layering stage, since the money had already been placed into the financial system before being routed there.
+
+The burgulars **were not** money mules since a money mule is usually an unwitting or semi-witting person who transfers money on behalf of criminals (often in cybercrime, online banking, romance scams, etc.). Here, the burglars were **co-conspirators**, knowingly moving and spending the cash. More accurate terms would be couriers or agents rather than mules.
+
+<ins> Money Laundering Stages </ins>
+
+Placement: The campaign funds (illegal donations) first entered the banking system.
+
+Layering: Funds were moved into Barker’s company account → then withdrawn in cash bundles. This made it harder to directly tie the money to the campaign.
+
+Integration (what burglars wanted to do): Use that cash for political espionage activity (paying for operations, equipment, bribes, etc.) to “reinsert” it into the economy disguised as legitimate expenses.
