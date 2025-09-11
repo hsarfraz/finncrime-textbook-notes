@@ -9,7 +9,7 @@ Do all types of money have a sequential serial number?
 * yes, all bank notes have sequntial numbers
 
 What is the purpose of a sequential serical number in a bank note?
-* It can help trace back funds to a single withdrawal source (like a campaign fund)
+* It can help trace back funds to a single withdrawal source. But only stacks of bills can be traced since all the bills in the stack would have sequential serial numbers
 
 Is the situation of the robbers having money an example of placement?
 * No, the “placement” occurred earlier, when the illegal campaign money (e.g., donations or slush funds) was first moved into legitimate bank accounts which allowed the robbers to withdraw the money. The robbers were going to make the money "clean" again by spending it which makes it closer to integration, not layering, because the money was already laundered and was now being applied in the real world.
