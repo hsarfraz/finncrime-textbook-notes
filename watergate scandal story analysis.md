@@ -1,4 +1,4 @@
- > pg. 15 - watergate case study
+ > pg. 14 - watergate case study
 >
 > The police had noticed that these burglars were very well-equipped. They had bugging equipment and a walkie-talkie, and four were discovered to be in possession of substantial amounts of currency. Eugenio Martinez had $814 in his pockets, $700 of which was in $100 bills with sequential serial numbers. Frank Sturgis had $215, and Virgilio Gonzalez and Bernard Barker each had $230. Most of this money was also in $100 bills in sequence, and more money was found downstairs. Altogether, police recovered $4,500 of the crisp, new hundreds-- money the burglars had apparently brought with them to the scene of the crime.
 
@@ -35,3 +35,20 @@ Integration (what burglars wanted to do): Use that cash for political espionage 
 > Investigators now went the other direction along the money trail, trying to find the source of the $114,000. They discovered that on April 20th, Barker had made a deposit of exactly $114,000, consisting of four bank drafts and one cashier's check. Did the bank have more information about the deposited items? Yes. The four bank drafts in amounts of $15,000, $18,000, $24,000, and $32,000 had been drawn on a Mexican bank. The Banco Internacional of Mexico City, the name of a Mexico City attorney, Manuel Orgario de Aguirre, appeared on the drafts.
 >
 > The cashier's check for the remaining $25,000 had been purchased with cash by Kenny Dahlberg from First Bank and Trust Company of Boca Raton, Florida. Investigators turned first to this check for additional leads, learning that Mr. Dahlberg was a Minnesota businessman who maintained a home in Boca Raton. When contacted, Dahlberg acknowledged buying the cashier's check on April 8, 1972 with $25,000 in cash he had received that day on a local golf course from Dwayne Andreas. Investigators now wanted to know why Andreas had given Dahlberg the money and how it had gotten from Dahlberg to Barker.
+
+Were the investigators able to trace back the four bank drafts because of **sequential serial number tracing**?
+
+* No, these were not bundles of U.S. banknotes — they were drafts, i.e., prepaid payment orders issued by a bank.
+* There are no bill-by-bill serial numbers on a draft the way there are on cash. Instead, the paper itself has: a draft number, date, issuing bank’s records of who bought it and with what funds.
+* So investigators didn’t trace them by currency serials; they went back to the issuing bank’s ledger (Banco Internacional, Mexico City) to see who purchased the drafts.
+
+Is a cashiers check bought?
+
+* A cashier’s check isn’t a personal check you write from your own checkbook.
+* It’s a check that a bank issues on its own account, payable to whoever you name.
+
+To get one:
+
+1. You hand the bank the money (cash or debit from your account).
+2. The bank charges you the amount of the check + a small fee.
+3. The bank prints a check saying “Pay to the order of …,” signed by a bank officer.
