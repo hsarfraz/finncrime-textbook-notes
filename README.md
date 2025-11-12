@@ -44,10 +44,8 @@ financial-crime-case-notes/
 * Currency Transaction Report (CTR)
 * Bank Secrecy Act (BSA)
 
-| Tax Threshold | Tax Due | 
-| ------------- | ------------- | 
-| Tax Free: £12,570 (£0 - £12,570) | £0  | 
-| Tax at 20%: £37,700 (£12,571 – £50,270)  | £7,540  | 
-| Tax at 40%: £49,730 (50,271 – £125,140)  | £19,892  | 
-| Total to be paid  | £27,432 | 
+| Date | Type | Description | Paid In | Paid Out | Balance |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| Tax Free: £12,570 (£0 - £12,570) | £0  | £0  | £0  | £0  | £0  | 
+
 
