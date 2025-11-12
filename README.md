@@ -46,6 +46,8 @@ financial-crime-case-notes/
 
 | Date | Type | Description | Paid In | Paid Out | Balance |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Tax Free: £12,570 (£0 - £12,570) |   | £0  | £0  | £0  | £0  | 
+| Opening Balance |   |   |   |   | 4872.12  | 
+|  |   |   |   |   |  | 
+
 
 
