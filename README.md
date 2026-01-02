@@ -80,7 +80,7 @@ Peter’s Perfect Pantry
 
 # Fund Economies HireVC live webinar
 
-| Date | Type | Description | Paid In | Paid Out | Balance |
+|  |  |  |  |  |  |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | Fund Size (INR Cr) | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 |
 | Multiple | 1.6x | 1.85x | 2.15x | 2.50x | 3.00x | 
