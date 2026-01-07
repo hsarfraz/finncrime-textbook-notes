@@ -12,7 +12,7 @@
 | 06 May 2022 | Cash Withdrawal | ATM |   | 200.00 | 3202.09 | 
 | 06 May 2022 | Transfer | L Kang | 180.00 |  | 3382.09 | 
 | 06 May 2022 | BACS | FlexFit Installations |   | 1800 | 1582.09 | 
-| 10 May 2022 | BACS | Cooper Rose LLP | 620.00  |  | 2202.09 | 
+| 10 May 2022 | Faster Payment | Cooper Rose LLP | 620.00  |  | 2202.09 | 
 | 13 May 2022 | BACS | Van Finance |   | 220.00 | 1982.09 | 
 | 14 May 2022 | Faster Payment | Chaplains LLC | 160.20 |  | 2142.20 | 
 | 18 May 2022 | Faster Payment | Ryder and Co | 145.00  |  | 2287.29 | 
