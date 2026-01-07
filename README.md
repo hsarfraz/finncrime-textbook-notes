@@ -1,103 +1,22 @@
-Money Laundering: A Guide for Criminal Investigators, Third Edition by John Madinger
-
-financial-crime-case-notes/
-│
-├── README.md                # Overview of project & purpose
-├── case_summaries/          # Written case analyses
-│   ├── hsbc_mexico.md
-│   ├── danske_bank_estonia.md
-│   ├── 1mdb_scandal.md
-│   └── [other cases].md
-│
-├── red_flags/               # Lists of suspicious indicators per industry
-│   ├── art_market.md
-│   ├── cafes_restaurants.md
-│   ├── crypto_exchanges.md
-│   └── real_estate.md
-│
-├── frameworks/              # High-level notes
-│   ├── FATF_40_recommendations.md
-│   ├── EU_AML_directives.md
-│   └── risk_assessment_process.md
-│
-└── reflections/             # Your own thoughts
-    ├── what_i_learned_aug2025.md
-    ├── recurring_patterns.md
-    └── skills_to_develop.md
-
-
-# finncrime-textbook-notes
-
-* The definition of money (ch 1)
-* stages of money laundering (pg 5)
-* How money is distributed
-* How does the money laundering process work (case studies)
-
-<ins> Checklist to use when investigating any financial crime case </ins>
-
-1. Look at the rules that exist to detect financial crime. Check those rules, because those rules are hard-coded rules, like the CTR threshold ($10,000, BSA requirement).
-2. What are the records that exist in the situation? This could be bank statements, SWIFT/wire transfer logs, Balance sheets & invoices, and SARs or previous compliance reports.
-3. Look at the business model and identify areas where money was moving, because then those are the areas that need to be investigated to identify if money laundering is occurring.
-4. Have you compared the patterns and behaviors in your current investigation to established money laundering typologies (smurfing, trade-based laundering, mirror trades), and note where they match or differ?
-
-<ins> Abbreviations </ins> 
-* Currency Transaction Report (CTR)
-* Bank Secrecy Act (BSA)
-
-| Tax Threshold | Tax Due | 
-| ------------- | ------------- | 
-| Tax Free: £12,570 (£0 - £12,570) | £0  | 
-| Tax at 20%: £37,700 (£12,571 – £50,270)  | £7,540  | 
-| Tax at 40%: £49,730 (50,271 – £125,140)  | £19,892  | 
-| Total to be paid  | £27,432 | 
-
-
--Bank Statement
-Peter’s Perfect Pantry
 | Date | Type | Description | Paid In | Paid Out | Balance |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Opening Balance |   |   |   |   | 4872.12  | 
+| Opening Balance |   |   |   |   | 3864.21  | 
 |  |   |   |   |   |  | 
-| 01 May 2022 | DD  | Energy Electric  |  | 384.25  | 4487.87 |
-| 01 May 2022 | Transfer | Lucy Deposit | 10.00 |  | 4497.87 | 
-| 01 May 2022 | Faster Payment | Finest Creams |  | 145.36 | 4352.51 | 
-| 02 May 2022 | Transfer | Gareth Deposit | 410.00 |   | 4762.51 | 
-| 03 May 2022 | BACS | Water Utilities |   | 215.00 | 4547.51 | 
-| 03 May 2022 | Faster Payment | Finest Creams |  | 245.63 | 4301.88 | 
-| 05 May 2022 | BACS | Electric Car Charger |   | 84.29 | 4217.59 | 
-| 06 May 2022 | Cash Withdrawal | ATM |   | 20.00 | 4197.59 | 
-| 06 May 2022 | Transfer | Saving Transfer | 200.00 |  | 4397.59 | 
-| 06 May 2022 | BACS | Hello Doily |   | 58.63 | 4338.96 | 
-| 10 May 2022 | BACS | Fitness 4 U |   | 695.00 | 3643.96 | 
-| 13 May 2022 | BACS | Rent Payment |   | 1250.00 | 2393.96 | 
-| 14 May 2022 | Int. Bank | Interest Paid | 19.60 |  | 2413.56 | 
-| 18 May 2022 | Faster Payment | Finest Creams |   | 435.29 | 1978.27 | 
-| 19 May 2022 | Transfer | Saving Transfer | 1000.00  |  | 2978.27 | 
-| 20 May 2022 | BACS | CleanersRus |   | 89.00 | 2889.27 | 
-| 27 May 2022 | DD  | Mobile Solutions |   | 47.99 | 2841.28 | 
-|  |   | Balance Forward Received |   |   | 2841.28 | 
-
-
-# Fund Economies HireVC live webinar
-
-|  |  |  |  |  |  |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-| Fund Size (INR Cr) | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 |
-| Multiple | 1.6x | 1.85x | 2.15x | 2.50x | 3.00x | 
-| Fund Value (INR Cr) | 160.0 | 185.1 | 215.0  | 250.0  | 300.0  | 
-|  |   |   |   |   |  | 
-| Hurdle | 8% | 8% | 8% | 8% | 8% |
-| Term | 8 | 8 | 8 | 8 | 8 | 
-|  |   |   |   |   |  |  
-| Distributable | 160.0 | 185.1 | 215.0 | 250.0 | 300.0 | 
-| Capital | 100.0 | 100.0 | 100.0 | 100.0 | 100.0 | 
-| Hurdle | 85.1 | 85.1 | 85.1 | 85.1 | 85.1 | 
-|  |   |   |   |   |  | 
-| Balance | - | 0.0 | 29.9 | 64.9 | 114.9 | 
-| 80 | - | 0.0 | 23.9 | 51.9 | 91.9 | 
-| 20 | - | 0.0 | 6.0 | 13.0 | 23.0 | 
-|  |   |   |   |   |  | 
-| Investor | 185.1 | 185.1 | 209.0 | 237.0 | 277.0 | 
-| Manager | - | 0.0 | 6.0 | 13.0 | 23.0 | 
-|  |   |   |   |   |  | 
-
+| 01 May 2022 | DD  | Energy Electric  |  | 343.12 | 3521.09|
+| 01 May 2022 | Transfer | J Cage | 126.00 |  | 3647.09 | 
+| 01 May 2022 | Faster Payment | Soundstage Solutions |  | 350.00 | 3297.09 | 
+| 02 May 2022 | Transfer | S Blade | 560.00 |   | 3857.09 | 
+| 03 May 2022 | BACS | Water Utilities |   | 160.00 | 3697.09 | 
+| 03 May 2022 | Faster Payment | Strung out Music Supplies |  | 110.00 | 3477.09 | 
+| 05 May 2022 | BACS | Blake Garage Patrol |   | 75.00 | 3402.09 | 
+| 06 May 2022 | Cash Withdrawal | ATM |   | 200.00 | 3202.09 | 
+| 06 May 2022 | Transfer | L Kang | 180.00 |  | 3382.09 | 
+| 06 May 2022 | BACS | FlexFit Installations |   | 1800 | 1582.09 | 
+| 10 May 2022 | BACS | Cooper Rose LLP | 620.00  |  | 2202.09 | 
+| 13 May 2022 | BACS | Van Finance |   | 220.00 | 1982.09 | 
+| 14 May 2022 | Faster Payment | Chaplains LLC | 160.20 |  | 2142.20 | 
+| 18 May 2022 | Faster Payment | Ryder and Co | 145.00  |  | 2287.29 | 
+| 19 May 2022 | Transfer | Saving Transfer | 50.00  |  | 2337.29 | 
+| 20 May 2022 | BACS | Cleaners4u |   | 25.00 | 2312.29 | 
+| 27 May 2022 | DD  | Mobile Solutions |   | 36.35 | 2275.94 | 
+|  |   | Balance Forward Received |   |   | 2275.94 | 
