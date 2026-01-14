@@ -1,12 +1,12 @@
-|  | FY23  | FY24  | FY25  |  
-| ------------- | ------------- | ------------- | ------------- | 
-| Gross Sales  | 118.0 | 132.0 | 145.0 | 
-| Less: GTN (trade schemes, discounts, free goods) | (19.0) | (23.0) | (26.5) |
-| Net Sales | 99.0  | 109.0  | 118.5  | 
-| COGS | (38.5) | (41.0) | (45.0) |
-| Gross Profit  | 60.5  | 68.0  | 73.5  | 
-| Field force cost (salary + incentives)  | (18.0) | (20.0) | (22.0) | 
-| Promotion + brand spend | (9.0) | (10.5) | (12.0) | 
-| Distribution + logistics | (3.5) | (4.0) | (4.5) | 
-| Admin + other overheads | (4.0) | (4.0) | (4.0) | 
-| EBITDA | (26.0) | (29.5) | (29.0) | 
+| Brand (fictional) | Therapy  | Net Sales (₹ cr)  | YoY Growth  |  Gross Margin % | Promo Intensity (Promo as % of sales) | Comment |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
+| Ceforid  | Anti-infective | 21.0 | +6% | 64% | 9% | Competitive crowding; trade pressure rising |
+| Painrel  | Pain mgmt | 14.0 | +9% | 68% | 8% |Strong prescriber loyalty in 4 states |
+| Moxid  | Anti-infective | 12.0 | +3% | 61% | 10% | Tender spillover affects retail pricing |
+| Nurofenac  | Pain mgmt | 9.5 | +12% | 70% | 7% | Mix improving toward higher margin packs |
+| Gastrozil  | Gastro | 8.0 | +8% | 66% | 6% | Stable; low noise |
+| VitaSure  | Vitamins | 6.5 | +15% | 58% | 12% | Growth is spendled; durability unclear |
+| Dermacare | Derma | 6.0 | +5% | 72% | 6% | Small but profitable |
+| Other Brands  | Mixed | 41.5 | +7% | 60% | 8% | Long tail; many low-focus SKUs |
+| Total  |  | 118.5 | +9% |  |  |  |
+
