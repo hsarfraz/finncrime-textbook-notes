@@ -1,10 +1,12 @@
-| Item | Details |  
-| ------------- | ------------- |  
-| Deal structure   | Business Transfer Agreement (going concern), carved-out non oncology Rx formulations portfolio  | 
-| Brands / SKUs | 23 brands, 67 SKUs  |  
-| Therapeutic focus | Anti-infectives + pain management (plus smaller gastro + vitamins)  | 
-| People | ~470 field staff (majority medical reps + area managers) | 
-| Distribution  | 1,600+ stockists + established channel relationships  | 
-| FY2024–25 (FY25) Net Sales  | ₹118.5 crore  | 
-| FY25 EBITDA | ₹29.0 crore  | 
-| Pipeline | 9 products (launch-ready mix, not all “new molecules”) | 
+|  | FY23  | FY24  | FY25  |  
+| ------------- | ------------- | ------------- | ------------- | 
+| Gross Sales  | 118.0 | 132.0 | 145.0 | 
+| Less: GTN (trade schemes, discounts, free goods) | (19.0) | (23.0) | (26.5) |
+| Net Sales | 99.0  | 109.0  | 118.5  | 
+| COGS | (38.5) | (41.0) | (45.0) |
+| Gross Profit  | 60.5  | 68.0  | 73.5  | 
+| Field force cost (salary + incentives)  | (18.0) | (20.0) | (22.0) | 
+| Promotion + brand spend | (9.0) | (10.5) | (12.0) | 
+| Distribution + logistics | (3.5) | (4.0) | (4.5) | 
+| Admin + other overheads | (4.0) | (4.0) | (4.0) | 
+| EBITDA | (26.0) | (29.5) | (29.0) | 
