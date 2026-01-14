@@ -1,11 +1,11 @@
-| Metric | Value  | 
-| ------------- | ------------- | 
-| Total field staff | 470 |
-| Productive reps (direct doctor coverage)  | 380 |
-| Average monthly cost per productive rep  | ₹0.55 lakh |
-| Average monthly net sales per productive rep  | ₹2.6 lakh |
-| Revenue per productive rep per year | ~₹31 lakh |
-| Incentive design | Heavily volume-linked; limited margin linkage  |
-| Coverage pattern  | Strong in West + South; weaker in East; uneven Tier-2 depth  |
+| Metric | Value  | What it Suggests |
+| ------------- | ------------- | ------------- | 
+| Receivables days  | 78 | Trade terms are stretched |
+| Inventory days  | 92 | SKU complexity + slow movers |
+| Payables days  | 46 | Limited supplier credit advantage |
+| Returns/expiry (as % of Net Sales)  | 3.4% | Long tail SKUs add leakage |
+| % sales via stockists (vs direct institutions)  | 92% | Doctor-led retail heavy |
+| Top 50 stockists contribution  | 38% | Some concentration in distribution |
+
 
 
