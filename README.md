@@ -1,7 +1,10 @@
-| Dimension | Key Question | P&L Impact | How to Pull It (Levers) | 
-| ------------- | ------------- | ------------- | ------------- | 
-| S – Scale  | Is volume growing vs. market, internal benchmarks, and long-term aspiration? | Net Sales, Gross Margin (abs), EBITDA | Drive distribution, build awareness, accelerate penetration |  
-| T– Target  | Are we buying growth through schemes/GTN and field-force cost, or earning it?  | Volume, Net Margin  | Scheme discipline, incentive redesign, call plan, focus brands | 
-| R– Reform | What are our total costs? What costs are structural vs fixable without harming prescriptions?  | COGS, Gross Margin, EBITDA  | SKU simplification, reduce slow movers/expiry leakage, manufacturing/pack optimisation, overhead hygiene  | 
-| I – Improve | What’s our GM or cost-to-serve by SKU/channel/geography? Where are margins leaking by SKU/channel/region (cost-to-serve + returns)? | Net Sales, GM %, Net Margin | Prune tail, route-to-market discipline, better mix, tighten credit/returns  |  
-| P– Price  | Do we have pricing headroom without losing Rx, and are we managing GTN net-realisation? | Revenue/unit, GM %, Volume | Price ladder discipline, pack rationalisation, targeted price moves, GTN governance | 
+| Item | Details |  
+| ------------- | ------------- |  
+| Deal structure   | Business Transfer Agreement (going concern), carved-out non oncology Rx formulations portfolio  | 
+| Brands / SKUs | 23 brands, 67 SKUs  |  
+| Therapeutic focus | Anti-infectives + pain management (plus smaller gastro + vitamins)  | 
+| People | ~470 field staff (majority medical reps + area managers) | 
+| Distribution  | 1,600+ stockists + established channel relationships  | 
+| FY2024–25 (FY25) Net Sales  | ₹118.5 crore  | 
+| FY25 EBITDA | ₹29.0 crore  | 
+| Pipeline | 9 products (launch-ready mix, not all “new molecules”) | 
